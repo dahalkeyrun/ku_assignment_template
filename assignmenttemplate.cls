@@ -103,7 +103,7 @@
         
         \vspace{0.5cm}
         \fontsize{12}{18}\selectfont
-        Subject to: Data Structures and Algorithms % Hardcoded subject
+        Subject: Data Structures and Algorithms % Hardcoded subject
         
         \vspace{0.5cm}
         Course Code: \@coursecode % Course code
