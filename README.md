@@ -10,6 +10,7 @@ A LaTeX template for assignment submissions at **Kathmandu University, Departmen
 
 ## How to Use
 
+### **Using the Template Locally**
 1. **Download the Template**
    - Clone this repository or download the `assignmenttemplate.cls` file.
 
@@ -55,6 +56,28 @@ A LaTeX template for assignment submissions at **Kathmandu University, Departmen
 
 5. **Compile the Document**
    - Compile your `.tex` file using a LaTeX editor (e.g., Overleaf, TeXShop, or TeXworks).
+
+---
+
+### **Using the Template in Overleaf**
+
+1. **Create a New Project**
+   - Log in to [Overleaf](https://www.overleaf.com/) and create a new project.
+
+2. **Upload the `.cls` File**
+   - Click the **Upload** button in the file explorer panel.
+   - Upload the `assignmenttemplate.cls` file.
+
+3. **Add the University Logo**
+   - Upload the university logo file (e.g., `logo-200.png`) to the project.
+
+4. **Create Your Assignment Document**
+   - Create a new `.tex` file (e.g., `main.tex`) and use the template provided above.
+
+5. **Compile the Document**
+   - Click **Recompile** to generate the PDF.
+
+---
 
 ## Example Output
 
