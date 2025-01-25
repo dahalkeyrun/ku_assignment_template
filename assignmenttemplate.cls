@@ -95,7 +95,7 @@
         \includegraphics[width=4cm]{logo-200}
         \vspace{1cm}
         
-        \textbf{An Assignment on} % Changed from "Assignment Submission"
+        \textbf{An Assignment on}
         
         \vspace{0.5cm}
         \fontsize{14}{21}\selectfont
